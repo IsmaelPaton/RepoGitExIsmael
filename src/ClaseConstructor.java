@@ -26,7 +26,7 @@ public class ClaseConstructor {
 			}
 		
 		}
-			resultado = "El promedio de los pares y divisibles entre 3 es : "; 
+			 
 
 	}	
 	return resultado;	
